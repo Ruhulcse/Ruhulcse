@@ -1,5 +1,3 @@
 ### Hi there 👋
-Welcome to my github profile
-- 🔭 I’m currently working on javascript
-- 🌱 I’m currently learning vue.js and spring boot.
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
