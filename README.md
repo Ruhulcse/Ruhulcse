@@ -1,3 +1,4 @@
 ### Passionate about Programming
-https://github-readme-stats.vercel.app/api?username=Ruhulcse
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Ruhulcse&theme=<THEME_NAME>" />
 
