@@ -1,3 +1,3 @@
-### Hi there 👋
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+### Passionate about Programming
+https://github-readme-stats.vercel.app/api?username=Ruhulcse
 
