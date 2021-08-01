@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulcse&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jess-Js" height="30" width="40" src="https://img.icons8.com/color/144/000000/javascript--v2.png">
+  <img align="center" alt="Jess-Js" height="50" width="50" src="https://img.icons8.com/color/144/000000/javascript--v2.png">
   <img align="center" alt="Jess-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jess-React" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Jess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
