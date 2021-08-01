@@ -11,7 +11,7 @@
   <img align="center" alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/144/000000/mongodb.png">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Jess-yoda" width="150" height="100"  src="https://giphy.com/embed/26tn33aiTi1jkl6H6">
+  <img align="right" alt="code" width="150" height="100"  src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
 
 </div>
   
